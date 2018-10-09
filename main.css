@@ -44,6 +44,7 @@ article {
   border-radius: 1rem;
   padding: 1.5rem 4.5rem 4.5rem;
   background: linear-gradient(315deg, #d9d9fb, #76a5fb);
+  background-size: 101%;
   box-shadow: 6px 6px 23px -6px rgba(138,138,138,1);
   width: 100%;
   position: relative;
