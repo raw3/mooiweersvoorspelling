@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /*.html$
+Disallow: /*/data/*
+Sitemap: https://mooiweersvoorspelling.nl/sitemap.xml

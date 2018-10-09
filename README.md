@@ -1,2 +1,2 @@
 # mooiweersvoorspelling
-Predict nice weather
+Predict nice weather using cutting edge native Javascript functionality.
