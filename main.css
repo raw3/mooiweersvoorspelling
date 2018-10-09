@@ -19,6 +19,21 @@ main {
   text-align: center;
 }
 
+footer {
+  clear: both;
+  padding-bottom: 2rem
+}
+
+footer p {
+  line-height: 2.5rem;
+  font-size: 1.1rem;
+  text-align: center;
+}
+
+footer p a {
+  color: #000
+}
+
 article {
   width: 27%;
   margin: 3%;
@@ -163,8 +178,8 @@ header img {
 
 footer {
   width: 100%;
-  margin-top: 4.5rem;
-  padding-top: 3rem;
+  margin-top: 6rem;
+  padding-top: 6rem;
 }
 
 polygon {
